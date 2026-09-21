@@ -1,0 +1,5 @@
+title: The Daily Gear Review
+description: Automated buying guides and honest product roundups.
+theme: minima
+plugins:
+  - jekyll-feed
